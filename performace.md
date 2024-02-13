@@ -1,6 +1,4 @@
 
-
-
 # THE ULTIMATE GUIDE TO BUBBLE PERFORMANCE
 
 ## HOW TO BUILD FAST, SCALABLE APPLICATIONS IN BUBBLE
@@ -232,6 +230,8 @@ In other words, the process of building an efficient app requires an understandi
 
 
 ### Knowing the platform
+
+Whatever you build in Bubble, it's probably not just for fun. Most projects are built on some kind of business or project idea that you expect will give you a return on the time and money you have invested. While Bubble is a fantastic tool, that doesn't automatically mean it's the right tool for every project. Knowing the pros, cons and limitations of the platform you choose, how to weigh your decisions and compromises and spotting challenges before they arise can save you months of going down the wrong path. This section also goes through some of Bubble's core features and explains how they work.
 
 
 ### How to build for performance
