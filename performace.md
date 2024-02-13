@@ -269,3 +269,33 @@ Whatever you build in Bubble, it's probably not just for fun. Most projects are 
 
 
 ## The difference between best practices and tools
+
+
+
+
+
+
+# Segunda Tabla
+
+| **Field**      | **Data**                             | **Size in bytes** |
+| ---------------| ------------------------------------| ------------------ |
+| First name     | John                                 | 4                 |
+| Last name      | Smith                                | 5                 |
+| Phone number   | \(XXX\) XXX-XXXX                     | 14                |
+| Unique ID      | 1603117061285x169136262540796830     | 32                |
+| Created date   | 1607264748                           | 10                |
+| Modified date  | 1607264748                           | 10                |
+| Created by     | 1603168031285x169136262540796987     | 32                |
+| All fields     | All data in fields above             | 84                |
+| **Total size** |                                    | **191**           |
+
+
+
+
+
+
+
+> Adding a few more ﬁelds increased the download size for this record by around 14%.
+>
+> The record size grew to 191 bytes - still pretty light. Multiplying that by 10.000 records, we would be looking at a total download size of **1,8 megabytes**.
+
